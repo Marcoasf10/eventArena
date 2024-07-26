@@ -1,0 +1,8 @@
+António Costa, 17/07/1961, M, 80, Índia
+Alex G, 15/02/1995, M, 80, USA
+Mary Jane, 20/03/1992, F, 65.3, Canada
+Jorge, 17/07/1961, M, 75.5, Portugal
+Valter, 17/07/1961, M, 75.5, Portugal
+Joao, 17/07/1961, M, 75.5, Portugal
+Lucas, 17/07/1961, M, 75.5, Lituania
+Diogo, 17/07/1961, M, 75.5, Espaha

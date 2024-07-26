@@ -1,0 +1,3 @@
+Judo,Seniores,<95Kg,M,J
+Karate,Seniores,<75Kg,F,K
+Judo sub-21,Sub-21,>=95Kg,M,J
